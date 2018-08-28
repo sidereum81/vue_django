@@ -8,3 +8,7 @@ http://www.django-rest-framework.org/
 https://scotch.io/bar-talk/build-an-app-with-vuejs-and-django-part-one
 https://www.techiediaries.com/django-rest-vuejs/
 https://auth0.com/blog/building-modern-applications-with-django-and-vuejs/#introduction-python-django
+
+Setting up NPM
+--------------
+https://nodesource.com/blog/installing-node-js-tutorial-ubuntu/
